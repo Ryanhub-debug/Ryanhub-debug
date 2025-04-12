@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryanhub-debug
-- 👀 I’m interested in Coding, Programming, Electronics and everything
+- 👀 I’m interested in Coding, Electronics and everything
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on opensource
 - 📫 reach me through Instagram:- Rynnn.exe
